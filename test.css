@@ -356,7 +356,7 @@ body {
   .scene-content {
     flex-direction: column;
     gap: 2rem;
-    margin-top: -1rem; /* to overlap navbar slightly */
+    margin-top: 2rem; /* to overlap navbar slightly */
   }
   .product-frame {
     width: 300px;
@@ -406,3 +406,4 @@ body {
     animation: footerFloat 6s ease-in-out infinite;
   }
 }
+
