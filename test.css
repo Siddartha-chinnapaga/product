@@ -370,7 +370,7 @@ body {
   .scene-content {
     flex-direction: column;
     gap: 2rem;
-    margin-top: 2rem; /* to overlap navbar slightly */
+    margin-top: 5rem; /* to overlap navbar slightly */
   }
 .footer {
   position: relative;
@@ -412,5 +412,6 @@ body {
     animation: footerFloat 6s ease-in-out infinite;
   }
 }
+
 
 
