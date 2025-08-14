@@ -366,12 +366,6 @@ body {
     text-align: center;
   }
 }
-@media (max-width: 412px) {
-  .scene-content {
-    flex-direction: column;
-    gap: 2rem;
-    margin-top: 5rem; /* to overlap navbar slightly */
-  }
 .footer {
   position: relative;
   width: 100%;
@@ -412,6 +406,3 @@ body {
     animation: footerFloat 6s ease-in-out infinite;
   }
 }
-
-
-
