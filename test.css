@@ -40,7 +40,7 @@ body {
   left: 0;
   width: 100%;
   height: 20px;
-  background: linear-gradient(to bottom, rgba(0,0,0,0.15), transparent);
+ /* background: linear-gradient(to bottom, rgba(0,0,0,0.15), transparent);*/
 }
 
 /* Brand Name */
@@ -406,3 +406,4 @@ body {
     animation: footerFloat 6s ease-in-out infinite;
   }
 }
+
